@@ -6,8 +6,8 @@
 
 1. Клонируйте репозиторий:
 
-`git clone <your-repository-url>
-cd <repository-folder>`
+`git clone <your-repository-url>` <br>
+`cd <repository-folder>`
 
 2. Создайте виртуальное окружение и активируйте его:
 
