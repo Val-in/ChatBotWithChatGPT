@@ -11,8 +11,8 @@ cd <repository-folder>`
 
 2. Создайте виртуальное окружение и активируйте его:
 
-`python -m venv .venv
-.venv\Scripts\activate`
+`python -m venv .venv` <br>
+`.venv\Scripts\activate`
 
 3. Установите зависимости:
 
@@ -20,8 +20,8 @@ cd <repository-folder>`
 
 4. Создайте файл .env с ключами:
 
-`TELEGRAM_TOKEN=<ваш токен>
-OPENAI_API_KEY=<ваш ключ OpenAI>`
+`TELEGRAM_TOKEN=<ваш токен>` <br>
+`OPENAI_API_KEY=<ваш ключ OpenAI>`
 
 5. Запустите проект.
 
